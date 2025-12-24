@@ -1,3 +1,7 @@
+Siaaap, paham! Ini versi **"Clean & Raw"** yang bisa langsung kamu salin (copy) dan tempel (paste) ke editor README di GitHub. Tidak ada teks tambahan dari saya di dalamnya.
+
+Silakan salin teks di bawah ini:
+
 # Backend Standard Practice - Node.js Deep Dive
 
 Repository ini adalah playground pengembangan Back-End saya yang berfokus pada implementasi standar industri dalam membangun RESTful API menggunakan Node.js dan Express.
