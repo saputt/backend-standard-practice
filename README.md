@@ -91,5 +91,3 @@ npm run dev
 *Dibuat untuk tujuan pembelajaran dan standarisasi pengembangan Back-End.*
 
 ---
-
-**Next Step:** Kalau sudah kamu tempel di GitHub, jangan lupa klik tombol **"Commit changes"** di bawah halaman GitHub-nya ya! Mau saya bantu cek urutan perintah `git` kalau kamu mau update lewat terminal?
